@@ -1,0 +1,7 @@
+dataProvider\ConfigDataProvider.class
+factory\BrowserFactory.class
+testcases\VerifyLoginPage.class
+factory\DataProviderFactory.class
+utility\Helpers.class
+Pages\TempBuddyLoginPage.class
+dataProvider\ExcelDataProvider.class

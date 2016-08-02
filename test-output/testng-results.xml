@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ASuite" duration-ms="38644" started-at="2016-07-28T15:22:13Z" finished-at="2016-07-28T15:22:52Z">
+    <groups>
+    </groups>
+    <test name="testng" duration-ms="38644" started-at="2016-07-28T15:22:13Z" finished-at="2016-07-28T15:22:52Z">
+      <class name="testcases.VerifyLoginPage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.VerifyLoginPage@4415d52e]" name="setUp" is-config="true" duration-ms="19798" started-at="2016-07-28T16:22:13Z" finished-at="2016-07-28T16:22:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginPage()[pri:0, instance:testcases.VerifyLoginPage@4415d52e]" name="LoginPage" duration-ms="17641" started-at="2016-07-28T16:22:33Z" finished-at="2016-07-28T16:22:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.VerifyLoginPage@4415d52e]" name="tearDown" is-config="true" duration-ms="1184" started-at="2016-07-28T16:22:50Z" finished-at="2016-07-28T16:22:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.VerifyLoginPage -->
+    </test> <!-- testng -->
+  </suite> <!-- ASuite -->
+</testng-results>
